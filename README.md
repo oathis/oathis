@@ -21,7 +21,7 @@
 - `Main Project` [Dialify]() (24.03.02 ~ Present) : MR Fluid Dial Waveform Profile Prediction AI Model
 
 ## 🔬 Research
-- `Digital Twin` [Machien Learning]() (2023.07.01 ~ Present) : Industry Partnership Project (LG)
+- `Digital Twin` [Machine Learning]() (2023.07.01 ~ Present) : Industry Partnership Project (LG)
 	- MR Fluid Dial Waveform Profile Prediction AI Model
 
 ## 🛠️ Tech Stacks
