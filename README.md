@@ -3,7 +3,7 @@
 ### Key Development Experiences
 - Creating MR Fluid Dial Waveform Profile Prediction AI Model
 
-[👉 CV Resume]()
+[👉 CV Resume](https://www.linkedin.com/in/oathis/)
 
 ## 🧳 Work Experiences
 
