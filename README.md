@@ -47,7 +47,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=immortalsmoke)](https://solved.ac/immortalsmoke/)
 
 ## 🗣️ Language
-- English (Intermediate)
+- OPic IM2
 
 ## 🪖 Interest
 - AI, Science
