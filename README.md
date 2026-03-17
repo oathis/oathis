@@ -8,7 +8,7 @@
 ## 🧳 Work Experiences
 
 **Spear Lab**
-- **Undergraduated Student Researcher** (2023/07 - Present)
+- **Undergraduated Student Researcher** (2023/07 - 2025/12 )
 
 ## 🎓 Education
 
